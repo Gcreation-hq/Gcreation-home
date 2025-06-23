@@ -11,7 +11,7 @@ Gcreation is a personal and creative studio focused on building useful, unique, 
 
 ## 🌐 Live Site
 
-[https://gcreation.vercel.app](https://gcreation.vercel.app)
+[https://gcreation.vercel.app](https://gcreation-home.vercel.app)
 
 ---
 
