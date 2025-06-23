@@ -32,6 +32,7 @@ gcreation-home/
 ├── index.html             # Main landing page
 ├── style.css              # Site styling
 ├── assets/                # Logo, icons, visual assets
+├── main.js                # Function of the website
 ├── LICENSE.md             # gRPL v2.0 License
 └── README.md              # This file
 ```
