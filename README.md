@@ -55,7 +55,7 @@ You are **not allowed** to resell, republish, rehost, or modify this project for
 **Fariz Gavriel Alvaro** – Founder of Gcreation  
 12 y/o self-taught builder from Indonesia 🇮🇩
 
-Find more projects on [GitHub](https://github.com/your-username).
+Find more projects on [GitHub](https://github.com/Gcreation-studio).
 
 ---
 
