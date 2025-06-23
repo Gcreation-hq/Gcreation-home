@@ -1,66 +1,37 @@
 /* style.css */
-body {
-  margin: 0;
-  font-family: 'Segoe UI', Tahoma, sans-serif;
-  background-color: #fefefe;
-  color: #222;
-}
 
-.container {
-  width: 90%;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 20px 0;
-}
+body { margin: 0; font-family: 'Segoe UI', Tahoma, sans-serif; background-color: #121212; color: #f0f0f0; line-height: 1.6; }
 
-header {
-  background-color: #fff;
-  border-bottom: 1px solid #ddd;
-  padding: 10px 0;
-  position: sticky;
-  top: 0;
-  z-index: 10;
-}
+.container { width: 90%; max-width: 960px; margin: 0 auto; padding: 20px 0; }
 
-.logo {
-  height: 40px;
-  vertical-align: middle;
-}
+header { background-color: #1e1e1e; border-bottom: 1px solid #333; padding: 10px 0; position: sticky; top: 0; z-index: 10; }
 
-nav {
-  float: right;
-}
+.logo { height: 40px; vertical-align: middle; }
 
-nav a {
-  margin-left: 20px;
-  text-decoration: none;
-  color: #333;
-  font-weight: 600;
-}
+nav { float: right; }
 
-#hero {
-  text-align: center;
-  padding: 100px 20px;
-  background: #fff8e1;
-}
+nav a { margin-left: 20px; text-decoration: none; color: #f0f0f0; font-weight: 600; }
 
-#hero h1 {
-  font-size: 3rem;
-  margin-bottom: 10px;
-}
+nav a:hover { color: #f7c948; }
 
-#projects .card {
-  background-color: #fff;
-  padding: 20px;
-  margin-top: 20px;
-  border-radius: 8px;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
-}
+#hero { text-align: center; padding: 100px 20px; background: #181818; }
 
-footer {
-  text-align: center;
-  padding: 30px 0;
-  font-size: 0.9em;
-  color: #555;
-  background: #f8f8f8;
-}
+#hero h1 { font-size: 3rem; margin-bottom: 10px; color: #f7c948; }
+
+#hero p { font-size: 1.2rem; color: #ccc; }
+
+#projects, #about, #contact { padding: 60px 20px; text-align: center; }
+
+.card { background-color: #1e1e1e; padding: 20px; margin-top: 20px; border-radius: 8px; box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3); text-align: left; }
+
+.card h2 { color: #f7c948; }
+
+.card a { display: inline-block; margin-top: 10px; color: #f7c948; text-decoration: none; font-weight: bold; }
+
+footer { text-align: center; padding: 30px 0; font-size: 0.9em; color: #aaa; background: #1e1e1e; border-top: 1px solid #333; }
+
+ul { list-style: none; padding: 0; text-align: center; }
+
+ul li { margin-bottom: 10px; font-size: 1.1em; }
+
+       
